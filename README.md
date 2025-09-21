@@ -51,9 +51,9 @@ python predictor.py
 
 📊 Results
 
-Achieved X% accuracy (replace with your model accuracy).
+Achieved 78.5% accuracy.
 
-Confusion matrix & ROC curve for model performance visualization.
+Confusion matrix & ROC curve for model performance visualization.[ file uploaded ]
 
 💡 Future Improvements
 
