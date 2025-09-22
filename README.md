@@ -1,3 +1,4 @@
+# NOTE: This AI project was done during my senior in highschool. At that time I dint know GitHub so that's why if you go through the commit history it looks like I made it all in 1 day.
 🩺 AI Diabetic Predictor
 
 An AI-powered machine learning model that predicts the likelihood of diabetes in a patient based on key health indicators.
